@@ -12,7 +12,7 @@ root.render(
   <BrowserRouter>
     <StrictMode>
       {/* <App /> */}
-      {/* <TemperatureCalculator/> */}
+      <TemperatureCalculator/>
       <TempCalculator/>
     </StrictMode>,
   </BrowserRouter>
